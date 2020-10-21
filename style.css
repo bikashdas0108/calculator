@@ -21,11 +21,16 @@
 
 button {
   font-size: 1rem;
+  font-weight: bold;
 }
 
 .input {
   grid-area: total;
   font-size: 2rem;
+  border: 2px solid red;
+  border-radius: 4px;
+  padding-right: 2px;
+  padding-left: 2px;
 }
 .input2 {
   grid-area: total;
